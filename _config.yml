@@ -1,3 +1,4 @@
 name: Daniil Aksenov (dbax), Database Engeneer
 markdown: kramdown
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
