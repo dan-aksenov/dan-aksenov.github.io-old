@@ -4,4 +4,7 @@ title: "Daniil Aksenov (dbax), Database Engeneer, Launches Site"
 date: 2017-02-04
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Этим полукреслом мастер Гамбс...
+Начал наконец перевод с корявого blogspot на гитовский гикхаб.
+В будущем надеюсь перенести сюда все свои технические записки, в том сисле из MS OneNote.
+Слава Императору.
