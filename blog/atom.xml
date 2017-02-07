@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://dan-aksenov.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
+		<name>Daniil Aksenov</name>
 		<email>drmfd@yandex.ru</email>
 	</author>
 
