@@ -11,6 +11,9 @@ date: 2017-04-03
 ``sudo usermod -aG docker my_user``  
 Перезапустить docker перезайти под пользователем.  
 
+* Как ходить на dokerhub через прокси?
+правим systemd'шный файл службы docker'а
+``Environment="HTTP_PROXY=http://proxy.example.com:80/"``  
 
 ## Работа с контейнетами
 * Запустить(если образа нет локально - попробует скачать)  
